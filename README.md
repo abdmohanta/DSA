@@ -1,3 +1,3 @@
 # DSA
 DSA Practice
-DP leetcode problems
+leetcode problems
