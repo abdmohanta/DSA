@@ -1,51 +1,39 @@
-# 🚀 Java DSA Practice
+# 🧠 Java DSA Practice
 
 <div align="center">
 
-# 🧠 Data Structures & Algorithms
-
-### A structured Java repository for learning, practicing, and mastering Data Structures & Algorithms.
+<h1>🚀 Data Structures & Algorithms</h1>
 
 <p>
-<strong>Java • DSA • Problem Solving • Algorithms • Interview Preparation</strong>
+<strong>Mastering DSA with Java through consistent practice, problem solving, and optimization.</strong>
 </p>
 
+<br>
+
+<img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk">
+<img src="https://img.shields.io/badge/DSA-Practice-00C853?style=for-the-badge">
+<img src="https://img.shields.io/badge/JDK-17+-blue?style=for-the-badge&logo=openjdk">
+<img src="https://img.shields.io/badge/Problem%20Solving-Active-success?style=for-the-badge">
+
 </div>
 
 ---
 
-## 📖 About This Repository
+## 📖 About
 
-Welcome to my **Java Data Structures & Algorithms Practice Repository**.
+This repository is my **Java Data Structures & Algorithms practice journey**.
 
-This repository contains my journey of learning and implementing **DSA concepts using Java**, starting from basic programming concepts and gradually moving toward advanced problem-solving techniques.
+The goal is to develop strong problem-solving skills by understanding how different data structures and algorithms work, implementing them in Java, analyzing their complexity, and continuously solving new problems.
 
-The main objective is to improve:
+### 🎯 Focus Areas
 
-- 🧠 Problem-solving skills
-- 💻 Java programming skills
-- ⚡ Algorithmic thinking
-- 📊 Time & Space Complexity analysis
-- 🎯 Technical interview preparation
-- 🚀 Competitive programming skills
-
-Each topic contains practical Java implementations and problem-solving examples.
-
----
-
-## 🛠️ Technology
-
-<div align="center">
-
-| Technology | Version / Usage |
-|---|---|
-| ☕ Java | JDK 17+ |
-| 🌱 Spring Boot | Used where required |
-| 📦 Java Collections | Core DSA Practice |
-| 🔧 Git | Version Control |
-| 🐙 GitHub | Repository & Progress Tracking |
-
-</div>
+- 🧠 Problem Solving
+- ☕ Java Programming
+- 📊 Data Structures
+- ⚡ Algorithms
+- ⏱️ Time & Space Complexity
+- 🎯 Technical Interview Preparation
+- 🚀 Competitive Programming
 
 ---
 
@@ -54,9 +42,9 @@ Each topic contains practical Java implementations and problem-solving examples.
 <table>
 <tr>
 
-<td valign="top" width="33%">
+<td width="33%" valign="top">
 
-### 🔹 Arrays
+### 🟢 Arrays
 
 - One Dimensional Arrays
 - Two Dimensional Arrays
@@ -73,9 +61,9 @@ Each topic contains practical Java implementations and problem-solving examples.
 
 </td>
 
-<td valign="top" width="33%">
+<td width="33%" valign="top">
 
-### 🔹 Strings
+### 🔵 Strings
 
 - String Manipulation
 - String Reversal
@@ -88,9 +76,9 @@ Each topic contains practical Java implementations and problem-solving examples.
 
 </td>
 
-<td valign="top" width="33%">
+<td width="33%" valign="top">
 
-### 🔹 Searching
+### 🟣 Searching
 
 - Linear Search
 - Binary Search
@@ -104,9 +92,9 @@ Each topic contains practical Java implementations and problem-solving examples.
 
 <tr>
 
-<td valign="top" width="33%">
+<td width="33%" valign="top">
 
-### 🔹 Sorting
+### 🟠 Sorting
 
 - Bubble Sort
 - Selection Sort
@@ -118,9 +106,9 @@ Each topic contains practical Java implementations and problem-solving examples.
 
 </td>
 
-<td valign="top" width="33%">
+<td width="33%" valign="top">
 
-### 🔹 Recursion
+### 🔴 Recursion
 
 - Basic Recursion
 - Factorial
@@ -133,9 +121,9 @@ Each topic contains practical Java implementations and problem-solving examples.
 
 </td>
 
-<td valign="top" width="33%">
+<td width="33%" valign="top">
 
-### 🔹 Linked List
+### 🟡 Linked List
 
 - Singly Linked List
 - Doubly Linked List
@@ -153,9 +141,9 @@ Each topic contains practical Java implementations and problem-solving examples.
 
 <tr>
 
-<td valign="top" width="33%">
+<td width="33%" valign="top">
 
-### 🔹 Stack
+### 🟢 Stack
 
 - Stack Implementation
 - Balanced Parentheses
@@ -166,9 +154,9 @@ Each topic contains practical Java implementations and problem-solving examples.
 
 </td>
 
-<td valign="top" width="33%">
+<td width="33%" valign="top">
 
-### 🔹 Queue
+### 🔵 Queue
 
 - Queue
 - Circular Queue
@@ -178,9 +166,9 @@ Each topic contains practical Java implementations and problem-solving examples.
 
 </td>
 
-<td valign="top" width="33%">
+<td width="33%" valign="top">
 
-### 🔹 Hashing
+### 🟣 Hashing
 
 - HashMap
 - HashSet
@@ -195,9 +183,9 @@ Each topic contains practical Java implementations and problem-solving examples.
 
 <tr>
 
-<td valign="top" width="33%">
+<td width="33%" valign="top">
 
-### 🔹 Trees
+### 🟠 Trees
 
 - Binary Tree
 - Binary Search Tree
@@ -211,9 +199,9 @@ Each topic contains practical Java implementations and problem-solving examples.
 
 </td>
 
-<td valign="top" width="33%">
+<td width="33%" valign="top">
 
-### 🔹 Heap
+### 🔴 Heap
 
 - Min Heap
 - Max Heap
@@ -225,9 +213,9 @@ Each topic contains practical Java implementations and problem-solving examples.
 
 </td>
 
-<td valign="top" width="33%">
+<td width="33%" valign="top">
 
-### 🔹 Graph
+### 🟡 Graph
 
 - Graph Representation
 - Adjacency Matrix
@@ -247,9 +235,9 @@ Each topic contains practical Java implementations and problem-solving examples.
 
 <tr>
 
-<td valign="top" width="33%">
+<td width="33%" valign="top">
 
-### 🔹 Greedy
+### 🟢 Greedy
 
 - Activity Selection
 - Fractional Knapsack
@@ -260,9 +248,9 @@ Each topic contains practical Java implementations and problem-solving examples.
 
 </td>
 
-<td valign="top" width="33%">
+<td width="33%" valign="top">
 
-### 🔹 Dynamic Programming
+### 🔵 Dynamic Programming
 
 - Memoization
 - Tabulation
@@ -276,9 +264,9 @@ Each topic contains practical Java implementations and problem-solving examples.
 
 </td>
 
-<td valign="top" width="33%">
+<td width="33%" valign="top">
 
-### 🔹 Backtracking
+### 🟣 Backtracking
 
 - Subsets
 - Permutations
@@ -295,87 +283,91 @@ Each topic contains practical Java implementations and problem-solving examples.
 
 ---
 
-# 📂 Repository Structure
+# 🗂️ Repository Structure
 
 ```text
 java-dsa-practice/
 │
-├── arrays/
+├── Arrays/
 │   ├── OneDimensionalArray1.java
 │   ├── OneDimensionalArray2.java
 │   ├── OneDimensionalArray3.java
 │   └── ...
 │
-├── strings/
+├── Strings/
 │
-├── searching/
+├── Searching/
 │
-├── sorting/
+├── Sorting/
 │
-├── recursion/
+├── Recursion/
 │
-├── linkedlist/
+├── LinkedList/
 │
-├── stack/
+├── Stack/
 │
-├── queue/
+├── Queue/
 │
-├── hashing/
+├── Hashing/
 │
-├── trees/
+├── Trees/
 │
-├── heap/
+├── Heap/
 │
-├── graph/
+├── Graph/
 │
-├── greedy/
+├── Greedy/
 │
-├── dynamicprogramming/
+├── DynamicProgramming/
 │
-└── backtracking/
+└── Backtracking/
 ```
 
 ---
 
-# 🧩 Problem-Solving Approach
+# 🧩 Problem-Solving Methodology
 
-For every problem, the approach is:
+I follow a structured approach while solving every problem:
 
 ```text
-                Problem
-                   │
-                   ▼
-          Understand the Problem
-                   │
-                   ▼
-          Identify Constraints
-                   │
-                   ▼
-        Find Brute Force Solution
-                   │
-                   ▼
-          Analyze Complexity
-                   │
-                   ▼
-            Optimize Solution
-                   │
-                   ▼
-           Implement in Java
-                   │
-                   ▼
-             Test Edge Cases
-                   │
-                   ▼
-       Analyze Time & Space Complexity
+             ┌───────────────────┐
+             │ Understand Problem│
+             └─────────┬─────────┘
+                       ↓
+             ┌───────────────────┐
+             │ Identify Constraints│
+             └─────────┬─────────┘
+                       ↓
+             ┌───────────────────┐
+             │ Brute Force       │
+             └─────────┬─────────┘
+                       ↓
+             ┌───────────────────┐
+             │ Analyze Complexity│
+             └─────────┬─────────┘
+                       ↓
+             ┌───────────────────┐
+             │ Optimize Solution │
+             └─────────┬─────────┘
+                       ↓
+             ┌───────────────────┐
+             │ Implement in Java │
+             └─────────┬─────────┘
+                       ↓
+             ┌───────────────────┐
+             │ Test Edge Cases   │
+             └─────────┬─────────┘
+                       ↓
+             ┌───────────────────┐
+             │ Final Complexity  │
+             └───────────────────┘
 ```
 
 ---
 
-# ⏱️ Time Complexity
+# ⏱️ Complexity Cheat Sheet
 
-Understanding complexity is one of the most important parts of DSA.
-
-| Complexity | Example |
+| Complexity | Common Example |
 |---|---|
 | `O(1)` | Array Access |
 | `O(log n)` | Binary Search |
@@ -387,9 +379,9 @@ Understanding complexity is one of the most important parts of DSA.
 
 ---
 
-# 💻 Java Coding Example
+# 💻 Java Example
 
-### Two Sum
+### Two Sum — Brute Force
 
 ```java
 public class TwoSum {
@@ -425,163 +417,174 @@ public class TwoSum {
 ### Complexity
 
 ```text
-Time Complexity  : O(n²)
-Space Complexity : O(1)
+Time  : O(n²)
+Space : O(1)
 ```
 
 ---
 
-# 🗺️ DSA Learning Roadmap
+# 🗺️ DSA Roadmap
+
+<div align="center">
 
 ```text
 Java Fundamentals
-        │
-        ▼
-     Arrays
-        │
-        ▼
-     Strings
-        │
-        ▼
+        ↓
+      Arrays
+        ↓
+      Strings
+        ↓
    Collections
-        │
-        ▼
+        ↓
     Searching
-        │
-        ▼
+        ↓
      Sorting
-        │
-        ▼
+        ↓
     Recursion
-        │
-        ▼
+        ↓
    Linked List
-        │
-        ▼
+        ↓
  Stack & Queue
-        │
-        ▼
+        ↓
      Hashing
-        │
-        ▼
+        ↓
       Trees
-        │
-        ▼
-      Heap
-        │
-        ▼
-     Graphs
-        │
-        ▼
+        ↓
+       Heap
+        ↓
+      Graph
+        ↓
      Greedy
-        │
-        ▼
+        ↓
   Backtracking
-        │
-        ▼
+        ↓
 Dynamic Programming
-        │
-        ▼
+        ↓
 Advanced Problem Solving
 ```
 
+</div>
+
 ---
 
-# 🎯 Goals
+# 📈 Progress
 
-- [x] Start Java DSA practice
-- [x] Practice basic Arrays
-- [ ] Complete Arrays
-- [ ] Complete Strings
-- [ ] Master Java Collections
-- [ ] Master Searching
-- [ ] Master Sorting
-- [ ] Master Recursion
-- [ ] Master Linked Lists
-- [ ] Master Stack & Queue
-- [ ] Master Hashing
-- [ ] Master Trees
-- [ ] Master Heap
-- [ ] Master Graphs
-- [ ] Master Greedy Algorithms
-- [ ] Master Backtracking
-- [ ] Master Dynamic Programming
-- [ ] Solve 500+ DSA problems
-- [ ] Improve problem-solving speed
-- [ ] Prepare for technical interviews
+| Topic | Progress |
+|---|---|
+| 🟢 Arrays | `In Progress` |
+| 🔵 Strings | `Learning` |
+| 🟣 Searching | `Learning` |
+| 🟠 Sorting | `Learning` |
+| 🔴 Recursion | `Learning` |
+| 🟡 Linked List | `Learning` |
+| 🟢 Stack | `Learning` |
+| 🔵 Queue | `Learning` |
+| 🟣 Hashing | `Learning` |
+| 🟠 Trees | `Learning` |
+| 🔴 Heap | `Learning` |
+| 🟡 Graph | `Learning` |
+| 🟢 Greedy | `Learning` |
+| 🔵 Dynamic Programming | `Learning` |
+| 🟣 Backtracking | `Learning` |
 
 ---
 
 # 🏆 Practice Platforms
 
-Problems and concepts are practiced using various coding platforms:
+<div align="center">
 
-- [LeetCode](https://leetcode.com/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)
-- [HackerRank](https://www.hackerrank.com/)
-- [CodeChef](https://www.codechef.com/)
-- [Codeforces](https://codeforces.com/)
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode">
+</a>
 
----
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks">
+</a>
 
-# 📈 Progress Tracking
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black">
+</a>
 
-| Category | Status |
-|---|---|
-| Arrays | 🟢 In Progress |
-| Strings | 🟡 Learning |
-| Searching | 🟡 Learning |
-| Sorting | 🟡 Learning |
-| Recursion | 🟡 Learning |
-| Linked List | 🟡 Learning |
-| Stack | 🟡 Learning |
-| Queue | 🟡 Learning |
-| Hashing | 🟡 Learning |
-| Trees | 🟡 Learning |
-| Heap | 🟡 Learning |
-| Graph | 🟡 Learning |
-| Greedy | 🟡 Learning |
-| Dynamic Programming | 🟡 Learning |
-| Backtracking | 🟡 Learning |
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef">
+</a>
+
+<a href="https://codeforces.com/">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces">
+</a>
+
+</div>
 
 ---
 
-# 🧠 Core Principles
+# 🎯 Goals
 
-> **Understand the logic, don't just memorize the solution.**
+```text
+☑ Build strong Java fundamentals
+☑ Understand core Data Structures
+☑ Understand core Algorithms
+☑ Master Java Collections
+☐ Solve 100+ Problems
+☐ Solve 250+ Problems
+☐ Solve 500+ Problems
+☐ Master Dynamic Programming
+☐ Master Graph Algorithms
+☐ Prepare for Technical Interviews
+```
 
-For every problem:
+---
+
+# 🧠 Core Philosophy
+
+<div align="center">
+
+### Don't memorize the solution. Understand the solution.
 
 ```text
 Understand
     ↓
 Think
     ↓
-Solve
+Implement
+    ↓
+Test
     ↓
 Optimize
-    ↓
-Implement
     ↓
 Analyze
     ↓
 Repeat
 ```
 
+</div>
+
 ---
 
 # 🚀 Why This Repository?
 
-This repository is more than a collection of solutions.
+This repository is continuously evolving as I learn and solve new problems.
 
-It is a structured learning journey focused on:
+It is built for:
 
-- Building strong DSA fundamentals
-- Understanding algorithms deeply
-- Writing clean Java code
-- Improving coding efficiency
-- Learning optimization techniques
-- Preparing for real-world technical interviews
+**📚 Learning**
+
+Understanding DSA concepts from fundamentals.
+
+**💻 Practice**
+
+Implementing concepts using clean Java code.
+
+**🧠 Problem Solving**
+
+Developing logical and algorithmic thinking.
+
+**⚡ Optimization**
+
+Learning how to improve time and space complexity.
+
+**🎯 Interview Preparation**
+
+Preparing for technical interviews and coding rounds.
 
 ---
 
@@ -593,7 +596,9 @@ It is a structured learning journey focused on:
 
 ### Java Backend Developer
 
-**Java • Spring Boot • Microservices • REST APIs • SQL • DSA**
+<p>
+Java • Spring Boot • Microservices • REST APIs • SQL • DSA
+</p>
 
 </div>
 
@@ -601,8 +606,8 @@ It is a structured learning journey focused on:
 
 <div align="center">
 
-### ⭐ If this repository helps you, consider giving it a star!
+## ⭐ Keep Learning. Keep Coding. Keep Solving.
 
-### 💻 Keep Coding • 🧠 Keep Learning • 🚀 Keep Growing
+### 🚀 One Problem at a Time.
 
 </div>
